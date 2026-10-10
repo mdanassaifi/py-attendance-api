@@ -9,7 +9,13 @@ venv/
 __pycache__/
 *.py[cod]
 .pytest_cache/
+tests/
+pytest.ini
 
-# Original zip extract folder
+# Starter kit files & documentation (not part of required submission)
 candidate_kit/
+sample_data/
+sample_seed.py
+DATA_MODEL.md
+openapi.yaml
 *.docx
