@@ -1,0 +1,15 @@
+# Environments and secrets
+.env
+.env.*
+.venv/
+env/
+venv/
+
+# Python cache & test artifacts
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Original zip extract folder
+candidate_kit/
+*.docx
