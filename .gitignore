@@ -11,6 +11,7 @@ __pycache__/
 .pytest_cache/
 tests/
 pytest.ini
+live_demo.py
 
 # Starter kit files & documentation (not part of required submission)
 candidate_kit/
